@@ -46,7 +46,28 @@
             "gift.6": [12000000, "گیفت 6 ماهه "],
             "gift.12": [20500000, "گیف 12 ماهه "]
         }
+            "telegram": {
+        "name": "تلگرام پریمیوم",
+        "logo": "/static/image/logo/telegram.png",
+        "data": ["telegram id"],
+        "color": "#2ba3d7",
+        "image": "/static/image/banner/telegram.jpg",
+        "plans": {
+            "gift.3": [9500000, "گیفت 3 ماهه "],
+            "gift.6": [12000000, "گیفت 6 ماهه "],
+            "gift.12": [20500000, "گیف 12 ماهه "]
+        }
     },
+            "chatgpt": {
+        "name": "ChatGPT",
+        "logo": "/static/image/logo/chatgpt.png",
+        "data": ["gmail", "password"],
+        "color": "#78eb96",
+        "image": "/static/image/banner/chatgpt.jpg",
+        "plans": {
+            "gift.3": [13500000, "نسخه یک ماهه Plus"],
+            "gift.6": [20000000, "نسخه یک ماهه Team"]
+        },
     "discord": {
         "name": "دیسکورد نیترو",
         "logo": "/static/image/logo/discord.png",
@@ -60,4 +81,5 @@
             "boost.12": [10500000, "بوست 12 ماهه"]
         }
     }
+    
 }
